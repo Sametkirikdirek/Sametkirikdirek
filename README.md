@@ -1,5 +1,5 @@
 # My name is **Samet Kırıkdirek**
-#### Hi everybody
+#### Hi everybody!
 <br><br/>
 > ## 👨🏻‍💻 About Me
 - 🎓 Studying Software Engineering at University of Üsküdar.
