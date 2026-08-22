@@ -255,7 +255,7 @@ const Samet = {
 
 <div align="center">
 
-> **"Code. Create. Learn. Repeat."**
+> **"Code. Pray . Learn. Pray . Repeat."**
 
 </div>
 
