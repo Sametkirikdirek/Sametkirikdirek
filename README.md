@@ -40,7 +40,7 @@ const Samet = {
         "System Design"
     ],
 
-    lifePhilosophy: "Code. Create. Learn. Repeat."
+    lifePhilosophy: "Code. Pray. Learn. Pray . Repeat."
 }
 ```
 
